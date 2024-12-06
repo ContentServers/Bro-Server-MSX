@@ -116,3 +116,8 @@
 [15:20:03] [Server thread/INFO]: Loading config from file...
 [15:20:03] [Server thread/INFO]: FastShadow10 joined the game
 [15:20:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[16:02:25] [Server thread/INFO]: FastShadow10 lost connection: Disconnected
+[16:02:25] [Server thread/INFO]: FastShadow10 left the game
+[16:02:34] [Server thread/INFO]: Stopping server
+[16:02:34] [Server thread/INFO]: Saving players
+[16:02:34] [Server thread/INFO]: Saving worlds
