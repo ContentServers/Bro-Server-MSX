@@ -113,3 +113,33 @@
 [19:21:21] [Server thread/INFO]: FastShadow10[/127.15.86.176:38905] logged in with entity id 3 at (638.7440011152632, 119.0, 2468.0916589524986)
 [19:21:21] [Server thread/INFO]: Loading config from file...
 [19:21:21] [Server thread/INFO]: FastShadow10 joined the game
+[20:39:31] [Server thread/INFO]: FastShadow10 teleported to 1361.5 99.0 2863.5 minecraft:overworld
+[20:41:25] [Server thread/INFO]: FastShadow10 teleported to 1238.5 71.0 2852.5 minecraft:overworld
+[21:20:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=583, y=61, z=2969} class_2338{x=585, y=60, z=2969}
+[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=583, y=60, z=2968} class_2338{x=583, y=58, z=2967}
+[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=583, y=60, z=2968} class_2338{x=583, y=58, z=2967}
+[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=583, y=60, z=2968} class_2338{x=583, y=58, z=2967}
+[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=583, y=60, z=2968} class_2338{x=583, y=58, z=2967}
+[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=583, y=60, z=2968} class_2338{x=583, y=58, z=2967}
+[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
+[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
+[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
+[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
+[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
+[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
+[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
+[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
+[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
+[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
+[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
+[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
+[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
+[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
+[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
+[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
+[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
+[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
+[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
+[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=587, y=61, z=2970} class_2338{x=583, y=58, z=2967}
+[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=587, y=61, z=2970} class_2338{x=583, y=58, z=2967}
+[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=587, y=61, z=2970} class_2338{x=583, y=58, z=2967}
