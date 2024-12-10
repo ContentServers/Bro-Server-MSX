@@ -126,3 +126,5 @@
 [17:37:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=518, y=17, z=259} class_2338{x=516, y=17, z=258}
 [17:38:15] [Server thread/INFO]: FastShadow10 teleported to 638.5 119.0 2467.5 minecraft:overworld
 [17:38:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4673ms or 93 ticks behind
+[18:06:03] [Server thread/INFO]: FastShadow10 lost connection: Disconnected
+[18:06:03] [Server thread/INFO]: FastShadow10 left the game
