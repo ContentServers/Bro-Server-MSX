@@ -1,6 +1,6 @@
-[16:12:26] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.2
-[16:12:27] [ForkJoinPool-1-worker-2/WARN]: Mod travelersbackpack uses the version fabric-1.21-10.0.6 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[16:12:27] [main/INFO]: Loading 60 mods:
+[19:18:14] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.2
+[19:18:15] [ForkJoinPool-1-worker-2/WARN]: Mod travelersbackpack uses the version fabric-1.21-10.0.6 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[19:18:16] [main/INFO]: Loading 60 mods:
 	- cardinal-components 6.1.0
 	   |-- cardinal-components-base 6.1.0
 	   |-- cardinal-components-block 6.1.0
@@ -73,58 +73,43 @@
 	   \-- journeymap-api-fabric 2.0.0-1.21-SNAPSHOT
 	- minecraft 1.21
 	- travelersbackpack fabric-1.21-10.0.6
-[16:12:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Bro-Server-MSX/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[16:12:28] [main/INFO]: Compatibility level set to JAVA_21
-[16:12:29] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:12:29] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[16:12:31] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[16:12:50] [main/INFO]: Initializing ServerSide Packet Registries
-[16:12:51] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[16:12:51] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[16:12:51] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[16:12:51] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[16:12:51] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:12:57] [main/INFO]: Loaded 1415 recipes
-[16:12:57] [main/INFO]: Loaded 1524 advancements
-[16:13:00] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 8.614 ms
-[16:13:00] [Server thread/INFO]: Starting minecraft server version 1.21
-[16:13:00] [Server thread/INFO]: Loading properties
-[16:13:00] [Server thread/INFO]: Default game type: SURVIVAL
-[16:13:00] [Server thread/INFO]: Generating keypair
-[16:13:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:13:00] [Server thread/INFO]: Using epoll channel type
-[16:13:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:13:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:13:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:13:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:13:00] [Server thread/INFO]: Preparing level "world"
-[16:13:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:13:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:13:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:13:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:13:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:13:15] [Worker-Main-1/INFO]: Preparing spawn area: 20%
-[16:13:15] [Server thread/INFO]: Time elapsed: 2201 ms
-[16:13:15] [Server thread/INFO]: Done (14.999s)! For help, type "help"
-[16:13:16] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[16:13:16] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[16:13:16] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[16:13:16] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[16:13:16] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
-[16:13:16] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@50a794b0 for service interface journeymap.api.services.ClientPlatformService
-[16:13:16] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@4d088207 for service interface journeymap.api.services.CommonPlatformService
-[16:16:01] [Server thread/INFO]: FastShadow10[/127.15.86.176:53671] logged in with entity id 3 at (1362.7846458101835, 86.0, 2832.3269344181545)
-[16:16:01] [Server thread/INFO]: Loading config from file...
-[16:16:02] [Server thread/INFO]: FastShadow10 joined the game
-[16:16:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[17:26:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=440, y=43, z=441} class_2338{x=439, y=42, z=441}
-[17:26:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=440, y=43, z=441} class_2338{x=439, y=42, z=441}
-[17:26:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=440, y=43, z=441} class_2338{x=439, y=42, z=441}
-[17:26:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=440, y=43, z=441} class_2338{x=439, y=42, z=441}
-[17:29:10] [Server thread/INFO]: FastShadow10 has completed the challenge [Return to Sender]
-[17:31:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=521, y=39, z=306} class_2338{x=521, y=36, z=305}
-[17:37:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=518, y=17, z=259} class_2338{x=516, y=17, z=258}
-[17:38:15] [Server thread/INFO]: FastShadow10 teleported to 638.5 119.0 2467.5 minecraft:overworld
-[17:38:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4673ms or 93 ticks behind
-[18:06:03] [Server thread/INFO]: FastShadow10 lost connection: Disconnected
-[18:06:03] [Server thread/INFO]: FastShadow10 left the game
+[19:18:17] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Bro-Server-MSX/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:18:17] [main/INFO]: Compatibility level set to JAVA_21
+[19:18:18] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:18:18] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:18:21] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[19:18:39] [main/INFO]: Initializing ServerSide Packet Registries
+[19:18:39] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[19:18:39] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[19:18:39] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[19:18:39] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[19:18:40] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:18:46] [main/INFO]: Loaded 1415 recipes
+[19:18:47] [main/INFO]: Loaded 1524 advancements
+[19:18:48] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 9.226 ms
+[19:18:48] [Server thread/INFO]: Starting minecraft server version 1.21
+[19:18:48] [Server thread/INFO]: Loading properties
+[19:18:48] [Server thread/INFO]: Default game type: SURVIVAL
+[19:18:48] [Server thread/INFO]: Generating keypair
+[19:18:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:18:48] [Server thread/INFO]: Using epoll channel type
+[19:18:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:18:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:18:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:18:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:18:48] [Server thread/INFO]: Preparing level "world"
+[19:18:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:18:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:18:58] [Server thread/INFO]: Time elapsed: 833 ms
+[19:18:58] [Server thread/INFO]: Done (9.736s)! For help, type "help"
+[19:18:58] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[19:18:58] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[19:18:58] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[19:18:58] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[19:18:58] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[19:18:58] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@227ef44 for service interface journeymap.api.services.ClientPlatformService
+[19:18:58] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@4cd9f7d5 for service interface journeymap.api.services.CommonPlatformService
+[19:21:21] [Server thread/INFO]: FastShadow10[/127.15.86.176:38905] logged in with entity id 3 at (638.7440011152632, 119.0, 2468.0916589524986)
+[19:21:21] [Server thread/INFO]: Loading config from file...
+[19:21:21] [Server thread/INFO]: FastShadow10 joined the game
