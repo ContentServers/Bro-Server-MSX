@@ -117,3 +117,9 @@
 [16:16:01] [Server thread/INFO]: Loading config from file...
 [16:16:02] [Server thread/INFO]: FastShadow10 joined the game
 [16:16:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[17:26:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=440, y=43, z=441} class_2338{x=439, y=42, z=441}
+[17:26:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=440, y=43, z=441} class_2338{x=439, y=42, z=441}
+[17:26:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=440, y=43, z=441} class_2338{x=439, y=42, z=441}
+[17:26:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=440, y=43, z=441} class_2338{x=439, y=42, z=441}
+[17:29:10] [Server thread/INFO]: FastShadow10 has completed the challenge [Return to Sender]
+[17:31:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=521, y=39, z=306} class_2338{x=521, y=36, z=305}
