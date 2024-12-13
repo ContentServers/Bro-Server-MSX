@@ -1,6 +1,6 @@
-[19:18:14] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.2
-[19:18:15] [ForkJoinPool-1-worker-2/WARN]: Mod travelersbackpack uses the version fabric-1.21-10.0.6 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[19:18:16] [main/INFO]: Loading 60 mods:
+[01:55:29] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.2
+[01:55:31] [ForkJoinPool-1-worker-1/WARN]: Mod travelersbackpack uses the version fabric-1.21-10.0.6 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[01:55:31] [main/INFO]: Loading 60 mods:
 	- cardinal-components 6.1.0
 	   |-- cardinal-components-base 6.1.0
 	   |-- cardinal-components-block 6.1.0
@@ -73,109 +73,42 @@
 	   \-- journeymap-api-fabric 2.0.0-1.21-SNAPSHOT
 	- minecraft 1.21
 	- travelersbackpack fabric-1.21-10.0.6
-[19:18:17] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Bro-Server-MSX/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:18:17] [main/INFO]: Compatibility level set to JAVA_21
-[19:18:18] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:18:18] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:18:21] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[19:18:39] [main/INFO]: Initializing ServerSide Packet Registries
-[19:18:39] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[19:18:39] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[19:18:39] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[19:18:39] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[19:18:40] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:18:46] [main/INFO]: Loaded 1415 recipes
-[19:18:47] [main/INFO]: Loaded 1524 advancements
-[19:18:48] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 9.226 ms
-[19:18:48] [Server thread/INFO]: Starting minecraft server version 1.21
-[19:18:48] [Server thread/INFO]: Loading properties
-[19:18:48] [Server thread/INFO]: Default game type: SURVIVAL
-[19:18:48] [Server thread/INFO]: Generating keypair
-[19:18:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:18:48] [Server thread/INFO]: Using epoll channel type
-[19:18:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:18:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:18:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:18:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:18:48] [Server thread/INFO]: Preparing level "world"
-[19:18:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:18:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:18:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:18:58] [Server thread/INFO]: Time elapsed: 833 ms
-[19:18:58] [Server thread/INFO]: Done (9.736s)! For help, type "help"
-[19:18:58] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[19:18:58] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[19:18:58] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[19:18:58] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[19:18:58] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
-[19:18:58] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@227ef44 for service interface journeymap.api.services.ClientPlatformService
-[19:18:58] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@4cd9f7d5 for service interface journeymap.api.services.CommonPlatformService
-[19:21:21] [Server thread/INFO]: FastShadow10[/127.15.86.176:38905] logged in with entity id 3 at (638.7440011152632, 119.0, 2468.0916589524986)
-[19:21:21] [Server thread/INFO]: Loading config from file...
-[19:21:21] [Server thread/INFO]: FastShadow10 joined the game
-[20:39:31] [Server thread/INFO]: FastShadow10 teleported to 1361.5 99.0 2863.5 minecraft:overworld
-[20:41:25] [Server thread/INFO]: FastShadow10 teleported to 1238.5 71.0 2852.5 minecraft:overworld
-[21:20:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=583, y=61, z=2969} class_2338{x=585, y=60, z=2969}
-[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=583, y=60, z=2968} class_2338{x=583, y=58, z=2967}
-[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=583, y=60, z=2968} class_2338{x=583, y=58, z=2967}
-[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=583, y=60, z=2968} class_2338{x=583, y=58, z=2967}
-[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=583, y=60, z=2968} class_2338{x=583, y=58, z=2967}
-[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=583, y=60, z=2968} class_2338{x=583, y=58, z=2967}
-[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
-[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
-[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
-[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
-[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
-[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
-[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
-[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
-[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
-[21:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
-[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
-[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
-[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
-[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
-[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
-[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
-[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
-[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
-[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=582, y=60, z=2969} class_2338{x=583, y=58, z=2967}
-[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=587, y=61, z=2970} class_2338{x=583, y=58, z=2967}
-[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=587, y=61, z=2970} class_2338{x=583, y=58, z=2967}
-[21:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=587, y=61, z=2970} class_2338{x=583, y=58, z=2967}
-[21:34:01] [Server thread/WARN]: Oak Boat (vehicle of FastShadow10) moved too quickly! 0.28359553747895916,0.0,-10.376394751067892
-[21:34:01] [Server thread/WARN]: Oak Boat (vehicle of FastShadow10) moved too quickly! 0.2945200651349751,0.0,-10.776109120468163
-[21:34:01] [Server thread/WARN]: Oak Boat (vehicle of FastShadow10) moved too quickly! 0.30544496508264274,0.0,-11.175837111540886
-[21:34:01] [Server thread/WARN]: Oak Boat (vehicle of FastShadow10) moved too quickly! 0.3163702000929334,0.0,-11.575577362118338
-[21:34:01] [Server thread/WARN]: Oak Boat (vehicle of FastShadow10) moved too quickly! 0.32729573665938005,0.0,-11.975328646250091
-[21:34:01] [Server thread/WARN]: Oak Boat (vehicle of FastShadow10) moved too quickly! 0.3382215446265491,0.0,-12.375089860580147
-[21:34:01] [Server thread/WARN]: Oak Boat (vehicle of FastShadow10) moved too quickly! 0.34914759685420904,0.0,-12.774860012088538
-[21:34:01] [Server thread/WARN]: Oak Boat (vehicle of FastShadow10) moved too quickly! 0.3600738689162881,0.0,-13.174638207057342
-[21:34:01] [Server thread/WARN]: Oak Boat (vehicle of FastShadow10) moved too quickly! 0.3710003388293899,0.0,-13.574423641140129
-[21:34:01] [Server thread/WARN]: Oak Boat (vehicle of FastShadow10) moved too quickly! 0.38192698680859394,0.0,-13.974215590425501
-[21:34:01] [Server thread/WARN]: Oak Boat (vehicle of FastShadow10) moved too quickly! 0.3928537950471309,0.0,-14.374013403392837
-[21:34:01] [Server thread/WARN]: Oak Boat (vehicle of FastShadow10) moved too quickly! 0.40378074751902204,0.0,-14.773816493674076
-[21:34:01] [Server thread/WARN]: Oak Boat (vehicle of FastShadow10) moved too quickly! 0.4147078298008182,0.0,-15.173624333537418
-[21:34:01] [Server thread/WARN]: Oak Boat (vehicle of FastShadow10) moved too quickly! 0.4256350289117563,0.0,-15.573436448024722
-[21:34:01] [Server thread/WARN]: Oak Boat (vehicle of FastShadow10) moved too quickly! 0.4365623331689221,0.0,-15.973252409673478
-[21:34:01] [Server thread/WARN]: Oak Boat (vehicle of FastShadow10) moved too quickly! 0.44748973205742004,0.0,-16.373071833767426
-[21:34:01] [Server thread/WARN]: Oak Boat (vehicle of FastShadow10) moved too quickly! 0.45841721611441244,0.0,-16.772894374061934
-[21:34:01] [Server thread/WARN]: Oak Boat (vehicle of FastShadow10) moved too quickly! 0.4693447768229362,0.0,-17.172719718936833
-[21:34:01] [Server thread/WARN]: Oak Boat (vehicle of FastShadow10) moved too quickly! 0.4802724065177699,0.0,-17.572547587934196
-[21:34:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
-[21:39:53] [Server thread/INFO]: FastShadow10 teleported to 521.5 15.0 257.5 minecraft:the_nether
-[21:41:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=523, y=15, z=195} class_2338{x=523, y=17, z=183}
-[21:52:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=588, y=15, z=258} class_2338{x=587, y=15, z=258}
-[21:52:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=588, y=15, z=258} class_2338{x=587, y=15, z=258}
-[22:05:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=561, y=18, z=279} class_2338{x=561, y=17, z=278}
-[22:15:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=342, y=16, z=176} class_2338{x=340, y=16, z=176}
-[22:15:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=340, y=17, z=175} class_2338{x=339, y=16, z=175}
-[22:15:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=340, y=17, z=175} class_2338{x=339, y=16, z=175}
-[22:15:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=340, y=17, z=175} class_2338{x=339, y=16, z=175}
-[22:15:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=340, y=17, z=175} class_2338{x=339, y=16, z=175}
-[22:20:48] [Server thread/INFO]: FastShadow10 teleported to 1361.5 99.0 2863.5 minecraft:overworld
-[22:27:28] [Server thread/INFO]: FastShadow10 teleported to 1098.5 -45.0 2541.5 minecraft:overworld
-[22:38:45] [Server thread/INFO]: FastShadow10 teleported to 638.5 119.0 2467.5 minecraft:overworld
-[23:40:37] [Server thread/INFO]: FastShadow10 teleported to 1361.5 99.0 2863.5 minecraft:overworld
-[23:43:23] [Server thread/INFO]: FastShadow10 lost connection: Disconnected
-[23:43:23] [Server thread/INFO]: FastShadow10 left the game
+[01:55:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Bro-Server-MSX/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:55:32] [main/INFO]: Compatibility level set to JAVA_21
+[01:55:33] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:55:33] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:55:34] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01:55:53] [main/INFO]: Initializing ServerSide Packet Registries
+[01:55:54] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[01:55:54] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[01:55:54] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[01:55:54] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[01:55:55] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:56:00] [main/INFO]: Loaded 1415 recipes
+[01:56:01] [main/INFO]: Loaded 1524 advancements
+[01:56:02] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 12.45 ms
+[01:56:02] [Server thread/INFO]: Starting minecraft server version 1.21
+[01:56:02] [Server thread/INFO]: Loading properties
+[01:56:02] [Server thread/INFO]: Default game type: SURVIVAL
+[01:56:02] [Server thread/INFO]: Generating keypair
+[01:56:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:56:03] [Server thread/INFO]: Using epoll channel type
+[01:56:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:56:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:56:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:56:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:56:03] [Server thread/INFO]: Preparing level "world"
+[01:56:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:56:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:56:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:56:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:56:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:56:17] [Server thread/INFO]: Time elapsed: 1850 ms
+[01:56:17] [Server thread/INFO]: Done (13.770s)! For help, type "help"
+[01:56:17] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[01:56:17] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[01:56:17] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[01:56:17] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[01:56:17] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[01:56:17] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@a9cdd54 for service interface journeymap.api.services.ClientPlatformService
+[01:56:17] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@42780f6b for service interface journeymap.api.services.CommonPlatformService
